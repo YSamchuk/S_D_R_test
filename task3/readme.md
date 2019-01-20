@@ -1,0 +1,4 @@
+- php artisan make:auth
+- php artisan migrate
+- php artisan clear-compiled
+- composer dump-autoload
